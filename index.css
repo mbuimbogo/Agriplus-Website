@@ -35,25 +35,47 @@ nav{
     text-align: justify;
     justify-content: space-around;
     padding:20px;
-    }
-#feedback,.boxx1{
+}
+.items1{
     justify-content: space-around;
     /**background-clip: border-box;**/
-    box-shadow: 0px 2px 1em;
+    box-shadow: 0.5px 1px 0.2em;
 }
-#feedback,.boxx2{
+.items2{
     justify-content: space-around;
     /**background-clip: border-box;**/
-    box-shadow: 0px 2px 1em;
+    box-shadow: 0.5px 1px 0.2em;
 }
-#feedback,.boxx3{
+.items3{
     justify-content: space-around;
-   /** background-clip: border-box;**/
-    box-shadow: 0px 2px 1em;
+    /**background-clip: border-box;**/
+    box-shadow: 0.5px 1px 0.2em;
+
+}
+#items{
+    display: flex;
+    padding:0;
+    justify-content: space-evenly;
+}
+
+.boxx1{
+    justify-content: space-around;
+    /**background-clip: border-box;**/
+    box-shadow: 0.5px 1px 0.2em;
+}
+.boxx2{
+    justify-content: space-around;
+    /**background-clip: border-box;**/
+    box-shadow: 0.5px 1px 0.2em;
+}
+.boxx3{
+    justify-content: space-around;
+   
+    box-shadow: 0.5px 1px 0.2em;
 }
 #feedback{
     display: flex;
-    padding:0;
+    justify-content: space-around;
 }
 .touch{
     text-align: center;
@@ -109,4 +131,8 @@ a:hover{
 }
 .content{
     display: flex;
+}
+
+h5,h6{
+    font-size: large;
 }

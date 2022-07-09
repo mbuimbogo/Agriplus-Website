@@ -1,0 +1,112 @@
+*{
+    font-size: 25;
+    font-family: Poppins, Inter;
+}
+html,body{
+    margin:0;
+    padding:0;
+}
+#footer{
+    display:flex;
+    text-align:left;
+    list-style:none;
+    padding: 60;
+    margin:20;
+    background-color:black;
+    color: #fafafa;
+}
+ul{
+    list-style: none;
+}
+.conclusion{
+    text-align: center;
+    color: #fafafa;
+    background-color: black;
+    margin-top: -15px;
+}
+nav{
+    display:flex;
+    padding: 10px 50px;
+    justify-content: space-between;
+    background-color: black;
+    color: #fafafa;
+}
+.nav-links a{
+    text-align: justify;
+    justify-content: space-around;
+    padding:20px;
+    }
+#feedback,.boxx1{
+    justify-content: space-around;
+    /**background-clip: border-box;**/
+    box-shadow: 0px 2px 1em;
+}
+#feedback,.boxx2{
+    justify-content: space-around;
+    /**background-clip: border-box;**/
+    box-shadow: 0px 2px 1em;
+}
+#feedback,.boxx3{
+    justify-content: space-around;
+   /** background-clip: border-box;**/
+    box-shadow: 0px 2px 1em;
+}
+#feedback{
+    display: flex;
+    padding:0;
+}
+.touch{
+    text-align: center;
+    color:#fafafa;
+    background-color: black;
+}
+.table{
+    text-align: center;
+}
+#footer,.box1{
+    text-align: left;
+    display: block;
+}
+#footer,.box2{
+    text-align: left;
+    display: block;
+}
+#footer,.box3{
+    text-align: left;
+    display:block;
+}
+#footer,.box4{
+    text-align: left;
+    display: block;
+}
+#footer{
+    justify-content: space-around;
+    padding:0;
+    display: flex;
+}
+
+.button{
+    justify-content:space-evenly;
+}   
+.nav-links ul li{
+    list-style: none;
+    display:inline-block;
+    position: relative;
+    margin:0;
+}
+.nav-links ul li a{
+    color: 2549D3;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #0F298B;
+    font-size: x-large;
+}
+#content{
+    background-image: url("./image\ 1.png");
+    background-size: cover;
+}
+.content{
+    display: flex;
+}

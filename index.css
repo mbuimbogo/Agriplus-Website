@@ -36,20 +36,24 @@ nav{
     justify-content: space-around;
     padding:20px;
 }
+.pop1,.pop2,.pop3,.pop4{justify-content: space-around;
+}
+#popular{
+    display: flex;
+    padding:0;
+    justify-content: space-evenly;
+}
 .items1{
     justify-content: space-around;
     /**background-clip: border-box;**/
-    box-shadow: 0.5px 1px 0.2em;
 }
 .items2{
     justify-content: space-around;
     /**background-clip: border-box;**/
-    box-shadow: 0.5px 1px 0.2em;
 }
 .items3{
     justify-content: space-around;
     /**background-clip: border-box;**/
-    box-shadow: 0.5px 1px 0.2em;
 
 }
 #items{

@@ -168,3 +168,12 @@ h5,h6{
     float:right;
   margin-left: 400px;
 }
+.static ul{
+    position: static;
+    display: flex;
+    padding:20px;
+    justify-content: space-evenly;
+    box-shadow: 3px 3px 1em;
+    margin-left:200px;
+    margin-right: 200px;
+}

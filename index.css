@@ -22,7 +22,7 @@ ul{
     text-align: center;
     color: #fafafa;
     background-color: black;
-    margin-top: -15px;
+    margin-top: -20px;
 }
 nav{
     display:flex;
@@ -32,9 +32,15 @@ nav{
     color: #fafafa;
 }
 .nav-links a{
-    text-align: justify;
     justify-content: space-around;
     padding:20px;
+    display: inline-block;
+}
+.why{
+    display: flex;
+}
+.categories{
+    text-align: center;
 }
 .pop1,.pop2,.pop3,.pop4{justify-content: space-around;
 }
@@ -107,7 +113,7 @@ nav{
 }
 #footer{
     justify-content: space-around;
-    padding:0;
+    padding:30px;
     display: flex;
 }
 
@@ -139,4 +145,7 @@ a:hover{
 
 h5,h6{
     font-size: large;
+}
+.read{
+    text-align: right;
 }

@@ -117,8 +117,9 @@ nav{
     display: flex;
 }
 
-.button{
+button{
     justify-content:space-evenly;
+    background-color: #ED661F;
 }   
 .nav-links ul li{
     list-style: none;
@@ -137,10 +138,12 @@ a:hover{
 }
 #content{
     background-image: url("./image\ 1.png");
-    background-size: cover;
+    background-size: contain;
+    padding:50px;
+    display: flex;
 }
 .content{
-    display: flex;
+    display: block;
 }
 
 h5,h6{

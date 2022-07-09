@@ -116,6 +116,9 @@ nav{
     padding:30px;
     display: flex;
 }
+#footer a{
+    color: #fafafa;
+}
 
 button{
     justify-content:space-evenly;
@@ -126,14 +129,15 @@ button{
     display:inline-block;
     position: relative;
     margin:0;
+    color: #fafafa;
 }
 .nav-links ul li a{
-    color: 2549D3;
+    color: #fafafa;
     text-decoration: none;
 }
 
 a:hover{
-    color: #0F298B;
+    color:blue;
     font-size: x-large;
 }
 #content{

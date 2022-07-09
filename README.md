@@ -7,16 +7,16 @@
 - Licence
 - Author
 ### Description
-I am mbuimbogo currently gaining experience in creating a landing page of an Estate website https://github.com/mbuimbogo/Experience using html and css basics
+I am mbuimbogo currently gaining experience in creating a landing page of an eCommerce website https://github.com/mbuimbogo/Agriplus-WEbsite using html and css basics
 #### Features
-- The project features:
+ The project features:
 - Application of the basic html elements and the css selectors 
 - Git committing and pushing on Github
 ##### Languages used
 - html which was used to build the structure of the pages.
 - css which was used to style the pages
 ###### Host of the project
-The project is hosted at https://mbuimbogo.github.io/Experience/
+The project is hosted at https://mbuimbogo.github.io/Agriplus-Website/
 
 ###### Licence
 Copyright (c) 2022 [mbuimbogo]
@@ -26,7 +26,6 @@ Permission is hereby granted, free of charge, to any person obtaining
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-######## Author
 
 ###### Author
 - Linked in profile www.linkedin.com/in/mbuipeter

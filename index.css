@@ -26,7 +26,7 @@ ul{
 }
 nav{
     display:flex;
-    padding: 10px 50px;
+    padding: 10px 30px;
     justify-content: space-between;
     background-color: black;
     color: #fafafa;
@@ -96,6 +96,7 @@ nav{
 }
 .table{
     text-align: center;
+    margin-left: 500px;
 }
 #footer,.box1{
     text-align: left;
@@ -122,6 +123,7 @@ nav{
     color: #fafafa;
     text-decoration: none;
     justify-content: space-evenly;
+    font-size: 30;
 }
 
 button{
@@ -159,4 +161,10 @@ h5,h6{
 }
 .read{
     text-align: right;
+}
+
+.login{
+    display:flex;
+    float:right;
+  margin-left: 400px;
 }

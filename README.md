@@ -7,7 +7,7 @@
 - Licence
 - Author
 ### Description
-I am mbuimbogo currently gaining experience in creating a landing page of an eCommerce website https://github.com/mbuimbogo/Agriplus-WEbsite using html and css basics
+I am mbuimbogo currently gaining experience in creating a landing page of an eCommerce website https://github.com/mbuimbogo/Agriplus-Website using html and css basics
 #### Features
  The project features:
 - Application of the basic html elements and the css selectors 
